@@ -9,7 +9,7 @@ A real-time stock market analysis project that fetches live stock price data fro
 
 📊 Interactive Dashboard: Visualizes near real-time stock price movements using Streamlit for a dynamic experience.
 
-**Technologies Used :**
+**Languages / Technologies Used :**
 
 Python
 
