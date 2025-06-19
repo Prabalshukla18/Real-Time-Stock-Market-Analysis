@@ -7,7 +7,7 @@ A real-time stock market analysis project that fetches live stock price data fro
 
 💾 Azure SQL Integration: Uses Microsoft ODBC for seamless data pipelining and updates the database every 2 seconds.
 
-📊 Interactive Dashboard: Visualizes real-time stock price movements using Streamlit for an intuitive and dynamic experience.
+📊 Interactive Dashboard: Visualizes near real-time stock price movements using Streamlit for a dynamic experience.
 
 **Technologies Used :**
 
