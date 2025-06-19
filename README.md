@@ -8,10 +8,14 @@ Features
 
 📊 Interactive Dashboard: Visualizes real-time stock price movements using Streamlit for an intuitive and dynamic experience.
 
-Technologies Used
+Technologies Used :
 
 Python
+
 Web Scraping (BeautifulSoup, Requests)
+
 Azure SQL Database
+
 Microsoft ODBC (pyodbc)
+
 Streamlit
