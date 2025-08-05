@@ -26,7 +26,7 @@ from config import (
 
 def send_email(stock: str, price: float, threshold: float, receiver_email: str):
     """
-    Sends an email alert when the stock price exceeds the threshold.
+    Sends an email alert when the stock price exceeds the threshold value.
     """
     subject = f"🚨 Stock Alert: {stock} exceeded threshold"
     body = (
